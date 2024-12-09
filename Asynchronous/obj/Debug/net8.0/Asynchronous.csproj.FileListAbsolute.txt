@@ -1,0 +1,15 @@
+/Users/macos/Documents/c#/tutorial/Asynchronous/bin/Debug/net8.0/Asynchronous
+/Users/macos/Documents/c#/tutorial/Asynchronous/bin/Debug/net8.0/Asynchronous.deps.json
+/Users/macos/Documents/c#/tutorial/Asynchronous/bin/Debug/net8.0/Asynchronous.runtimeconfig.json
+/Users/macos/Documents/c#/tutorial/Asynchronous/bin/Debug/net8.0/Asynchronous.dll
+/Users/macos/Documents/c#/tutorial/Asynchronous/bin/Debug/net8.0/Asynchronous.pdb
+/Users/macos/Documents/c#/tutorial/Asynchronous/obj/Debug/net8.0/Asynchronous.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Documents/c#/tutorial/Asynchronous/obj/Debug/net8.0/Asynchronous.AssemblyInfoInputs.cache
+/Users/macos/Documents/c#/tutorial/Asynchronous/obj/Debug/net8.0/Asynchronous.AssemblyInfo.cs
+/Users/macos/Documents/c#/tutorial/Asynchronous/obj/Debug/net8.0/Asynchronous.csproj.CoreCompileInputs.cache
+/Users/macos/Documents/c#/tutorial/Asynchronous/obj/Debug/net8.0/Asynchronous.sourcelink.json
+/Users/macos/Documents/c#/tutorial/Asynchronous/obj/Debug/net8.0/Asynchronous.dll
+/Users/macos/Documents/c#/tutorial/Asynchronous/obj/Debug/net8.0/refint/Asynchronous.dll
+/Users/macos/Documents/c#/tutorial/Asynchronous/obj/Debug/net8.0/Asynchronous.pdb
+/Users/macos/Documents/c#/tutorial/Asynchronous/obj/Debug/net8.0/Asynchronous.genruntimeconfig.cache
+/Users/macos/Documents/c#/tutorial/Asynchronous/obj/Debug/net8.0/ref/Asynchronous.dll
